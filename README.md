@@ -1,4 +1,4 @@
-# NIDSusingML
+# NIDS using ML
 A network intrusion detection system (NIDS) using machine learning is a type of security technology that uses advanced algorithms and statistical models to detect and prevent unauthorized access, misuse, or attacks on computer networks.
 
 The system is trained using historical data to identify patterns and anomalies in network traffic, and to distinguish between normal and suspicious activities. The machine learning algorithms can then be used to identify potential security threats in real-time and trigger alerts or countermeasures to prevent the attack.
